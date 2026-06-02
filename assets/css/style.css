@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: opx;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+.clear{
+    clear: both;
+}
+
+header{
+    padding: 10px 0px;
+    display: flex;
+    background-color: aqua;
+}
+
+.container{
+    width: 90%;
+    margin: 0px auto;
+}
+
+header .logo{
+    width: 50%;
+    float: left;
+
+}
+
+header .menu{
+    width: 100%;
+    float: right;
+    /* align-items: center; */
+
+}
+
+ header .logo img{
+    height: 30px;
+    width: 30px;
+    border: 0px solid black;
+    border-radius: 50%;
+    margin: 10px 10px;
+    /* align-items: center; */
+    /* display: block; */
+    
+
+}
+
+header .menu ul li{
+    float: left;
+    margin: 10px 10px;
+}
+
+header .container .menu ul li a{
+    font-size: 14px;git branch -M main
+}
