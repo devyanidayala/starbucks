@@ -97,7 +97,6 @@ header .menu{
 header .menu ul{
     list-style: none;
     display: flex;
-    /* align-items: center; */
     padding: 0;
     margin: 0;
 }
@@ -144,7 +143,6 @@ header .menu ul li a{
     font-size: 10px;
     border-radius: 20px;
     background-color: white;
-    /* cursor: pointer; */
 }
 
 .btn1{
@@ -175,8 +173,6 @@ header .menu ul li a{
     size: 30px;
     padding: 10px;
     margin-right: 30px;
-    display: flex;
-    align-items: center;
 }
 
 
@@ -187,15 +183,11 @@ header .menu ul li a{
     justify-content: center;
    margin:  30px 0px;
    background-color: #006242;
-   display: flex;
-    align-items: flex-start;
 }
 
 .img1 img{
     width: 100%;
     margin-left: 10px;
-    display: flex;
-    align-items: flex-start;
 
 }
 
@@ -228,8 +220,6 @@ header .menu ul li a{
     size: 30px;
     padding: 10px;
     margin-right: 30px;
-    display: flex;
-    align-items: center;
     background-color: #006242;
     color: white;
 }
@@ -241,8 +231,6 @@ header .menu ul li a{
     justify-content: center;
    margin:  30px 0px;
    background-color: #006242;
-   display: flex;
-    align-items: flex-start;
 }
 
 .summer1{
@@ -274,8 +262,6 @@ header .menu ul li a{
     size: 30px;
     padding: 10px;
     margin-right: 30px;
-    display: flex;
-    align-items: center;
     background-color: #006242;
     color: white;
 }
@@ -283,8 +269,6 @@ header .menu ul li a{
 .img2 img{
     width: 100%;
     margin-left: 10px;
-    display: flex;
-    align-items: flex-end;
 
 }
 
@@ -295,15 +279,11 @@ header .menu ul li a{
     justify-content: center;
    margin:  30px 0px;
    background-color: #006242;
-   display: flex;
-    align-items: flex-start;
 }
 
 .img3 img{
     width: 100%;
     margin-left: 10px;
-    display: flex;
-    align-items: flex-start;
 
 }
 
@@ -336,8 +316,156 @@ header .menu ul li a{
     size: 30px;
     padding: 10px;
     margin-right: 30px;
-    display: flex;
-    align-items: center;
     background-color: #006242;
     color: white;
 }
+
+/* cake section */
+.cake{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   margin:  30px 0px;
+   background-color: #006242;
+   display: flex;
+    align-items: flex-start;
+}
+
+.cake1{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.cake1 h2 {
+    font-size: 20px;
+    padding-bottom: 12px;
+    color: white;
+}
+
+.cake1 p{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 12px 0px;
+    color: white;
+}
+
+.button1{
+    border: 2px solid white;
+    border-radius: 20px;
+    size: 30px;
+    padding: 10px;
+    margin-right: 30px;
+    background-color: #006242;
+    color: white;
+}
+
+.img4 img{
+    width: 100%;
+    margin-left: 10px;
+
+}
+
+/* footer */
+.table{
+    display: flex;
+    padding: 0px 0px;
+    font-size: 14px;
+}
+
+/* last */
+.last{
+    padding: 10px 0px;
+}
+
+.last h2{
+    padding: 20px 40px;
+    
+}
+
+.last ul li:hover{
+    color: black;
+}
+
+.last ul li{
+    padding: 7px;
+    color: rgb(0 0 0 / 58%);
+}
+
+/* 1 */
+.last1{
+    padding: 10px 0px;
+}
+
+.last1 h2{
+    padding: 20px 40px;
+}
+
+.last1 ul li:hover{
+    color: black;
+}
+
+.last1 ul li{
+    padding: 7px;
+    color: rgb(0 0 0 / 58%);
+}
+
+/* 2 */
+.last2{
+    padding: 10px 0px;
+}
+
+.last2 h2{
+    padding: 20px 40px;
+}
+
+.last2 ul li:hover{
+    color: black;
+}
+
+.last2 ul li{
+    padding: 7px;
+    color: rgb(0 0 0 / 58%);
+}
+
+/* 3 */
+.last3{
+    padding: 10px 0px;
+}
+
+.last3 h2{
+   padding: 20px 40px;
+    /* margin-bottom: 5px 0px; */
+}
+
+.last3 ul li:hover{
+    color: black;
+}
+
+.last3 ul li{
+    padding: 7px;
+    color: rgb(0 0 0 / 58%);
+}
+
+/* 4 */
+.last4{
+    padding: 10px 0px;
+}
+
+.last4 h2{
+    padding: 20px 40px;
+}
+
+.last4 ul li:hover{
+    color: black;
+}
+
+.last4 ul li{
+    padding: 7px;
+    color: rgb(0 0 0 / 58%);
+}
+
