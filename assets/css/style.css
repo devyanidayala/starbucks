@@ -469,3 +469,12 @@ header .menu ul li a{
     color: rgb(0 0 0 / 58%);
 }
 
+/* footer */
+.icon ul li{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+.footer{
+    padding: 150px 0px;
+}
